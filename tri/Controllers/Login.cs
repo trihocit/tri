@@ -8,5 +8,6 @@ namespace tri.Controllers
 {
     internal class Login
     {
+        String tt;
     }
 }
